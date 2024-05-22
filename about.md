@@ -10,7 +10,7 @@ Hi, I'm Zin Myo Naing. I'm an IT Professional based in Canada.
 ## Background
 - **Education:** Bachelor of Science (Hons) (Computer Science).
 - **Experience:** 
-Senior IT Analyst								              06/2019 - 11/2023 
+Senior IT Analyst								      06/2019 - 11/2023 
 Fortune Fund Myanmar Co., Ltd.							      Yangon, Myanmar
 
 •	Installed, configured, and maintained computer hardware, software, and peripherals.
