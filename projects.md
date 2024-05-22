@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 
-## Project 1: [KBZ Bank's Oracle Flexcube Universal Banking Implementation Project](http://link-to-project.com)
+## Project 1: [KBZ Bank's Oracle Flexcube Universal Banking Implementation Project](https://www.kbzbank.com/en/ways-to-bank/mbanking/)
 **Description:** Oracle FLEXCUBE Universal Banking is a comprehensive banking solution designed to modernize a bank’s core systems efficiently. It aims to transform the bank into a versatile, agile, connected, and efficient institution of the future
 
 **Technologies Used:** Sun Servers, Sun Solaris, Oracle Linux, Oracle Database, Oracle Weblogic, PL/SQL, Oracle FLEXCUBE Software
