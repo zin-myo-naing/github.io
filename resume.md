@@ -19,8 +19,18 @@ Results-driven IT professional with experience in system administration and netw
 
 PROFESSIONAL EXPERIENCE
 
-Senior IT Analyst								              06/2019 - 11/2023 
-Fortune Fund Myanmar Co., Ltd.							              Yangon, Myanmar
+Technical Support Representative						              						02/2024 - Present 
+Carry Telecom						                                                     	Toronto, Canada
+
+•	Provided technical support to customers via phone, email, and chat, addressing connectivity, hardware, and software issues.
+•	Diagnosed and resolved network issues, including network equipment configuration, slow speeds, intermittent connectivity, and hardware malfunctions.
+•	Managed customer inquiries and issues using a ticketing system, ensuring accurate and timely documentation of all support interactions.
+•	Guided customers through software installations and updates to ensure optimal performance of services.
+•	Collaborated with the team to escalate complex problems and diligently followed up to guarantee their resolution.
+
+
+Senior IT Analyst								              								06/2019 - 11/2023 
+Fortune Fund Myanmar Co., Ltd.							              						Yangon, Myanmar
 
 - Installed, configured, and maintained computer hardware, software, and peripherals.
 - Provided technical support for web and mobile applications of microfinance systems and end-users, troubleshooting hardware, software, and network issues via phone, email, and in person.
@@ -30,8 +40,8 @@ Fortune Fund Myanmar Co., Ltd.							              Yangon, Myanmar
 - Collaborated with cross-functional teams to escalate and resolve complex technical issues.
  
  
-System Engineer									               04/2018 - 05/2019
-Mytel										               Yangon, Myanmar
+System Engineer									               								04/2018 - 05/2019
+Mytel										               									Yangon, Myanmar
 
 - Implemented physical server changes, including ESXi and VMware Server configurations, to meet project requirements.
 - Created virtual machines on the VCenter Server.
@@ -43,8 +53,8 @@ Mytel										               Yangon, Myanmar
 - Maintained the stability, integrity, and efficient operation of information systems supporting organizational functions.
 
 	
-System Engineer									                08/2012 - 10/2017
-Myanmar Information Technology Pte. Ltd.					                Yangon, Myanmar
+System Engineer									                							08/2012 - 10/2017
+Myanmar Information Technology Pte. Ltd.					                				Yangon, Myanmar
 
 - FLEXCUBE Universal Banking Projects (at KBZ Bank, MAB Bank and TFB Bank)
 - Resolved issues and escalated problems with knowledgeable support and quality service.
@@ -65,6 +75,6 @@ Microsoft Windows,Linux, Solaris, MacOS, Oracle Database, Oracle Weblogic, SQL, 
 
 EDUCATION
 
-Bachelor of Science (Hons) (Computer Science) 				                        2007 - 2011 
-Yadanabon University								                Myanmar
+Bachelor of Science (Hons) (Computer Science) 				                        		2007 - 2011 
+Yadanabon University								                						Myanmar
 
